@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachpieratt&label=Profile%20views&color=0e75b6&style=flat" alt="zachpieratt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachpieratt" alt="zachpieratt" /></a> </p>
-
-- 🔭 I’m currently working on **various Javascript projects and chrome extensions.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/zachpieratt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zachpieratt" height="30" width="40" /></a>
@@ -15,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachpieratt&show_icons=true&locale=en&layout=compact" alt="zachpieratt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachpieratt&show_icons=true&locale=en" alt="zachpieratt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachpieratt&" alt="zachpieratt" /></p>
