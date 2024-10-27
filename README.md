@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachpieratt&label=Profile%20views&color=0e75b6&style=flat" alt="zachpieratt" /> </p>
 
-<p><img width=40% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachpieratt&layout=compact&theme=great-gatsby" alt="zachpieratt" /></p>
+<p><img width=40% align="left" src="https://github-readme-stats-hazel-iota.vercel.app/api/top-langs/?username=zachpieratt&layout=compact&theme=great-gatsby" alt="zachpieratt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-hazel-iota.vercel.app/api?username=zachpieratt&show_icons=true&locale=en&theme=great-gatsby" alt="zachpieratt" /></p>
 
