@@ -1,4 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zachpieratt&label=Profile%20views&color=0e75b6&style=flat" alt="zachpieratt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zachpieratt&label=Profile%20views&color=0e75b6&style=flat" alt="zachpieratt" /> <a href="https://github.com/sponsors/zachpieratt" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-zachpieratt-orange" alt="Sponsor @zachpieratt" />
+</a>
+
+</p>
+
+
 
 <p><img width=40% align="left" src="https://github-readme-stats-hazel-iota.vercel.app/api/top-langs/?username=zachpieratt&layout=compact&theme=great-gatsby" alt="zachpieratt" /></p>
 
