@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,arduino,aws,bash,linux,docker,electron,git,mongodb,nodejs,react,svelte,threejs,ts,vite,powershell,postgres,mysql&perline=20">
+<img src="https://skillicons.dev/icons?i=js,html,css,arduino,py,kali,cpp,graphql,aws,bash,linux,docker,electron,git,mongodb,nodejs,react,svelte,threejs,ts,vite,powershell,postgres,mysql&perline=15">
 
 
 
